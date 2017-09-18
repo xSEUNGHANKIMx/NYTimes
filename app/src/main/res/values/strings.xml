@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewYork Times</string>
+    <string name="hint">Enter keyword</string>
+    <string name="action_search">Search</string>
+</resources>
